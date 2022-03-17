@@ -1,0 +1,16 @@
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\obj\Debug\netcoreapp3.1\_153501_Filipenya.csproj.AssemblyReference.cache
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\obj\Debug\netcoreapp3.1\_153501_Filipenya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\obj\Debug\netcoreapp3.1\_153501_Filipenya.AssemblyInfoInputs.cache
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\obj\Debug\netcoreapp3.1\_153501_Filipenya.AssemblyInfo.cs
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\obj\Debug\netcoreapp3.1\_153501_Filipenya.csproj.CoreCompileInputs.cache
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\bin\Debug\netcoreapp3.1\_153501_Filipenya.exe
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\bin\Debug\netcoreapp3.1\_153501_Filipenya.deps.json
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\bin\Debug\netcoreapp3.1\_153501_Filipenya.runtimeconfig.json
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\bin\Debug\netcoreapp3.1\_153501_Filipenya.runtimeconfig.dev.json
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\bin\Debug\netcoreapp3.1\_153501_Filipenya.dll
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\bin\Debug\netcoreapp3.1\_153501_Filipenya.pdb
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\obj\Debug\netcoreapp3.1\_153501_Filipenya.dll
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\obj\Debug\netcoreapp3.1\_153501_Filipenya.pdb
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\obj\Debug\netcoreapp3.1\_153501_Filipenya.genruntimeconfig.cache
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Александра\source\repos\_153501_Filipenya\_153501_Filipenya\obj\Debug\netcoreapp3.1\_153501_Filipenya.csproj.CopyComplete
